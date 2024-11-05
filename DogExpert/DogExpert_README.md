@@ -6,5 +6,5 @@
 
 | Screen | Screen | Screen | Screen |
 | :------: | :-----------: | :-----------: | :-----------: |
-| <img src="/DogExpert/Image/image065.png"/>  | <img src="/DogExpert/Image/image067.png"/>  | <img src="/DogExpert/Image/image069.png"/> | <img src="//DogExpert/Image/image071.png"/> | 
-| <img src="/DogExpert/Image/image073.png"/>  | <img src="/DogExpert/Image/image075.png"/>  | <img src="//DogExpert/Image/image077.png"/> | <img src="//DogExpert/Image/image079.png"/> |
+| <img src="/DogExpert/Image/image065.png"/>  | <img src="/DogExpert/Image/image067.png"/>  | <img src="/DogExpert/Image/image069.png"/> | <img src="/DogExpert/Image/image071.png"/> | 
+| <img src="/DogExpert/Image/image073.png"/>  | <img src="/DogExpert/Image/image075.png"/>  | <img src="/DogExpert/Image/image077.png"/> | <img src="/DogExpert/Image/image079.png"/> |
