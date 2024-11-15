@@ -28,10 +28,22 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 + Figma UI Design
 
 #### App Store Status
-<u>20/9/2024 - Successful launch on AppStore [b1.0, v1.9.3].</u> 🔥<span style="color:red">New</span>🔥
+<u>20/9/2024 - Successful launch on AppStore [b1.0, v1.9.3].</u> 🔥<span style="color:red"></span>🔥
 
+___
+
+##### UI Version (sample)
+
+###### 🎈1.0
+<img src="/DauBMemory/Image/UI_v1.png" />
+
+###### 🎈2.0
+<img src="/DauBMemory/Image/UI_v2.png" />
+
+___
 
 #### There are some features of the app:
+
 
 ##### Demo show:
 The following display may does not represent the current app effect, as different versions have different display effects.
@@ -53,15 +65,7 @@ The following display may does not represent the current app effect, as differen
 <!-- | `Photo mark Widget` | Coming soon | -->
 <!-- | `Photo mark Widget` | Coming soon | -->
 
-___
 
-##### UI Version (sample)
-
-###### 🎈1.0
-<img src="/DauBMemory/Image/UI_v1.png" />
-
-###### 🎈2.0
-<img src="/DauBMemory/Image/UI_v2.png" />
 
 ___
 
