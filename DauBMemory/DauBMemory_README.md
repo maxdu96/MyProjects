@@ -5,6 +5,7 @@
 <img src="/giphy.gif"/> -->
 ># [Dau B Memory] App in IOS
 >>##### AppStore link: https://apps.apple.com/hk/app/dau-b-memory/id6476182093
+https://apps.apple.com/us/app/chil-fm/id6738116276
 >>>Developed by [Max DU](https://github.com/maxdu96)
 >>>>*The app can make the couple record there are daily life together. All can access create or edit one diary. Or maybe say, people often forget what they do on a day. So when they wanna remember that day, they can open the app to check, can let them happy or xxx one more time. And the couple for two both have responsibility to do this things*
 
