@@ -28,7 +28,11 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 + Figma UI Design
 
 #### App Store Status
-<u>20/9/2024 - Successful launch on AppStore [b1.0, v1.9.3].</u> 🔥<span style="color:red"></span>🔥
+<u>25/2/2025 - Add in app purchase can let you buy your own data and can handle in offline. [v2.2.1] </u> 🔥<span style="color:red"></span>🔥
+...
+<u>28/1/2025 - Fix the not correct version number and add anniversary reminder notification. [v2.0.0] </u> 
+...
+<u>19/9/2024 - Successful launch on AppStore. [v1.0] </u> 
 
 ___
 
