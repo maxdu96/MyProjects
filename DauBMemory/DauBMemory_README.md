@@ -28,7 +28,7 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 + Figma UI Design
 
 #### App Store Status
-<u>25/2/2025 - Add emoji selection panel [v2.4.0] 🔥🔥</u> 
+<u>19/3/2025 - Add emoji selection panel [v2.4.0] 🔥🔥</u> 
 
 ...
 
