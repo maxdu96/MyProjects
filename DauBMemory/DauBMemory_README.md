@@ -28,10 +28,18 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 + Figma UI Design
 
 #### App Store Status
-<u>25/2/2025 - Add <b>in app purchase</b> can let you buy your own data and can handle in offline. [v2.2.1] </u> 🔥<span style="color:red"></span>🔥
+<u>25/2/2025 - Add emoji selection panel [v2.4.0] 🔥🔥</u> 
+
 ...
+
+<u>25/2/2025 - Add <b>in app purchase</b> can let you buy your own data and can handle in offline. [v2.2.1]</u> 
+
+...
+
 <u>28/1/2025 - Fix the not correct version number and add anniversary reminder notification. [v2.0.0] </u> 
+
 ...
+
 <u>19/9/2024 - Successful launch on AppStore. [v1.0] </u> 
 
 ___
@@ -46,11 +54,11 @@ ___
 
 ___
 
-#### There are some features of the app:
 
-
-##### Vido Demo Show:
+#### Vido Demo Show:
 The following display may does not represent the current app effect, as different versions have different display effects.
+
+<i>Click below vedio:<i>
 
 [![Dau B Memory](https://img.youtube.com/vi/uHn1DlWv_UI/0.jpg)](https://youtu.be/uHn1DlWv_UI "GO YOUTUBE")
 
