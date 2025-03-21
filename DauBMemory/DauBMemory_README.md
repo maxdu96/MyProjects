@@ -52,8 +52,7 @@ ___
 ##### Vido Demo Show:
 The following display may does not represent the current app effect, as different versions have different display effects.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uHn1DlWv_UI?si=ZypiutC9bznVYwzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Dau B Memory](https://img.youtube.com/vi/uHn1DlWv_UI/0.jpg)](https://youtu.be/uHn1DlWv_UI "GO YOUTUBE")
 
 
 <!-- | Function  | Description |
