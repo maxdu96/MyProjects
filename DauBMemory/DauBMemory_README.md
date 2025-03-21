@@ -5,7 +5,6 @@
 <img src="/giphy.gif"/> -->
 ># [Dau B Memory] App in IOS
 >>##### AppStore link: https://apps.apple.com/hk/app/dau-b-memory/id6476182093
-https://apps.apple.com/us/app/chil-fm/id6738116276
 >>>Developed by [Max DU](https://github.com/maxdu96)
 >>>>*The app can make the couple record there are daily life together. All can access create or edit one diary. Or maybe say, people often forget what they do on a day. So when they wanna remember that day, they can open the app to check, can let them happy or xxx one more time. And the couple for two both have responsibility to do this things*
 
@@ -19,7 +18,7 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 
 #### Languages and technology:
 + Swift
-+ Node.Js 18
++ Node.JS
 + Google Firsbase 
     - Authentication 
     - Firestore Database
@@ -29,7 +28,7 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 + Figma UI Design
 
 #### App Store Status
-<u>25/2/2025 - Add in app purchase can let you buy your own data and can handle in offline. [v2.2.1] </u> 🔥<span style="color:red"></span>🔥
+<u>25/2/2025 - Add <b>in app purchase</b> can let you buy your own data and can handle in offline. [v2.2.1] </u> 🔥<span style="color:red"></span>🔥
 ...
 <u>28/1/2025 - Fix the not correct version number and add anniversary reminder notification. [v2.0.0] </u> 
 ...
@@ -50,10 +49,13 @@ ___
 #### There are some features of the app:
 
 
-##### Demo show:
+##### Vido Demo Show:
 The following display may does not represent the current app effect, as different versions have different display effects.
 
-| Function  | Description |
+
+
+
+<!-- | Function  | Description |
 | ------ | :-----------: |
 | `Welcome page & App basic` | <img src="/DauBMemory/Image/GIF/welcome.gif" width="30%" height="30%" /> <img src="/DauBMemory/Image/GIF/main_3tab.gif" width="30%" height="30%" />|
 | `Diary create flow` | <img src="/DauBMemory/Image/GIF/diary_typing.gif" width="30%" height="30%" />  <img src="/DauBMemory/Image/GIF/day_range_selector.gif" width="30%" height="30%" /> <img src="/DauBMemory/Image/GIF/diary_create.gif" width="30%" height="30%" />|
@@ -69,8 +71,6 @@ The following display may does not represent the current app effect, as differen
 <!-- | `Photo mark Widget` | Coming soon | -->
 <!-- | `Photo mark Widget` | Coming soon | -->
 <!-- | `Photo mark Widget` | Coming soon | -->
-
-
 
 ___
 
