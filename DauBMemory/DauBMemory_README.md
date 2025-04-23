@@ -55,12 +55,12 @@ ___
 ___
 
 
-#### Vido Demo Show:
+#### Video Demo Show:
 The following display may does not represent the current app effect, as different versions have different display effects.
 
-<i>Click below vedio:<i>
+<i>Click below video:<i>
 
-[![Dau B Memory](https://img.youtube.com/vi/uHn1DlWv_UI/0.jpg)](https://youtu.be/uHn1DlWv_UI "GO YOUTUBE")
+[![Dau B Memory](/DauBMemory/Image/play_video.png)](https://youtu.be/uHn1DlWv_UI "GO YOUTUBE")
 
 
 <!-- | Function  | Description |
