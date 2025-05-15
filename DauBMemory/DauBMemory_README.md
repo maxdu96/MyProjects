@@ -24,15 +24,21 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
     - Firestore Database
     - Functions
     - Messaging
++ Google 
+    - Admob
 + GitHub Source Control
 + Figma UI Design
 
 #### App Store Status
-<u>19/3/2025 - Add emoji selection panel [v2.4.0] 🔥🔥</u> 
+<u>15/5/2025 - Fix photo preview and add local notification for the reminder alarm [v3.1.0] 🔥🔥</u> 
 
 ...
 
-<u>25/2/2025 - Add <b>in app purchase</b> can let you buy your own data and can handle in offline. [v2.2.1]</u> 
+<u>19/3/2025 - Add emoji selection panel [v2.4.0]</u> 
+
+...
+
+<u>25/2/2025 - Add in app purchase can let you buy your own data and can handle in offline. [v2.2.1]</u> 
 
 ...
 
@@ -44,13 +50,47 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 
 ___
 
-##### UI Version (sample)
+#### UI Version (Sample)
+The following display may does not represent the current app effect, as different versions have different display effects.
 
 ###### 🎈1.0
 <img src="/DauBMemory/Image/UI_v1.png" />
 
 ###### 🎈2.0
 <img src="/DauBMemory/Image/UI_v2.png" />
+
+___
+
+
+#### Features
+- [x] Version handling.
+    - [x] Check iTunes API to known if there have a new version.
+    - [x] Catch the version number determine if an update is necessary based on a version number. 
+- [x] Onboarding View.
+- [x] Authentication checks when opening the app.
+- [x] Support multiple languages. (English, Cantonese, Chinese).
+- [x] Privacy view, privacy protection when a device or app is inactive.
+- [x] Sharing diaries and other stuffs will share with your partner.
+- [x] Diaries filter by month.
+- [x] Range selection for the date pick.
+- [x] Custom emoji reaction, look like WhatsApp app.
+- [x] Remote notication for new diary / comment.
+    - [x]  NotificationServiceExtension can use custom icon.
+    - [x]  Deeplink to that page when in active / backgurand / inactive.
+- [x] Local notication for reminder alarms.
+    - [x]  Deeplink to that page when in active / backgurand / inactive.
+- [x] Anniversary celebrations poup, mean when 7 days / 1 month / n years.
+- [x] Widget, show the reminder data in widget.
+    - [x] Support dark mode.
+- [x] In-App Purchases (IAP), can buy your data handle offline.
+- [x] Skeleton loading view.
+- [x] Photo gallery, look like native-style.
+- [x] Reminder list usage like native-style.
+    - [ ] Support Siri.
+- [ ] Support long press functionality on app icon.
+- [ ] Real full text search.
+
+
 
 ___
 
