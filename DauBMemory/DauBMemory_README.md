@@ -30,7 +30,7 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 + Figma UI Design
 
 #### App Store Status
-<u>15/5/2025 - Support dark mode, add quick action when tap on app icon [v3.2.0] 🔥🔥</u> 
+<u>23/5/2025 - Support dark mode, add quick action when tap on app icon [v3.2.0] 🔥🔥</u> 
 
 ...
 <!-- 
