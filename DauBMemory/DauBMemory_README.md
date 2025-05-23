@@ -30,10 +30,10 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 + Figma UI Design
 
 #### App Store Status
-<u>15/5/2025 - Fix photo preview and add local notification for the reminder alarm [v3.1.0] 🔥🔥</u> 
+<u>15/5/2025 - Support dark mode, add quick action when tap on app icon [v3.2.0] 🔥🔥</u> 
 
 ...
-
+<!-- 
 <u>19/3/2025 - Add emoji selection panel [v2.4.0]</u> 
 
 ...
@@ -44,7 +44,7 @@ And here is my app(Project Created on Sep 2023). I released the app in Dec 2023 
 
 <u>28/1/2025 - Fix the not correct version number and add anniversary reminder notification. [v2.0.0] </u> 
 
-...
+... -->
 
 <u>19/9/2024 - Successful launch on AppStore. [v1.0] </u> 
 
@@ -81,13 +81,13 @@ ___
     - [x]  Deeplink to that page when in active / backgurand / inactive.
 - [x] Anniversary celebrations poup, mean when 7 days / 1 month / n years.
 - [x] Widget, show the reminder data in widget.
-    - [x] Support dark mode.
 - [x] In-App Purchases (IAP), can buy your data handle offline.
 - [x] Skeleton loading view.
 - [x] Photo gallery, look like native-style.
 - [x] Reminder list usage like native-style.
-    - [ ] Support Siri.
-- [ ] Support long press functionality on app icon.
+    - [ ] Support Siri add data.
+- [X] Support long press functionality on app icon.
+- [x] Support dark mode.
 - [ ] Real full text search.
 
 
